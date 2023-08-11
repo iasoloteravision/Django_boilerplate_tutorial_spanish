@@ -19,4 +19,4 @@ class Post(models.Model):
 
 Realiza el mismo proceso en la aplicación `blog` para definir cualquier otro modelo que necesites.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

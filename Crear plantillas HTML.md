@@ -89,4 +89,4 @@ Por ejemplo, podrías tener una plantilla base `base.html` con la estructura HTM
 
 Crear plantillas HTML en tu proyecto Django implica crear archivos HTML en las carpetas `templates` de cada aplicación. Puedes usar etiquetas y variables de plantilla de Django para renderizar contenido dinámico y crear estructuras comunes en tus páginas. Además, puedes extender plantillas base para mantener una estructura coherente en todo tu sitio web mientras personalizas el contenido en páginas específicas. Las plantillas te permiten separar el diseño y la estructura HTML de los datos dinámicos, lo que hace que tu aplicación sea más organizada y fácil de mantener.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

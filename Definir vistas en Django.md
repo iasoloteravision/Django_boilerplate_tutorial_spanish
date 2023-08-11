@@ -71,4 +71,4 @@ En este ejemplo, hemos definido dos rutas: una para la función de vista `home` 
 
 Definir vistas en Django implica crear funciones o clases que manejan solicitudes de usuario y generan respuestas, que suelen ser páginas HTML. Las vistas determinan qué contenido se mostrará al usuario en respuesta a una URL específica. Puedes utilizar funciones de vista simples o vistas basadas en clases, y luego asociarlas a URLs en el archivo `urls.py` de tu aplicación para crear una experiencia interactiva y dinámica en tu sitio web.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

@@ -28,4 +28,4 @@ Las rutas en Django se definen en el archivo `urls.py` de cada aplicación para 
 
 4. Repite el proceso para la aplicación `blog` (`apps/blog/urls.py`), definiendo las rutas específicas de esa aplicación.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

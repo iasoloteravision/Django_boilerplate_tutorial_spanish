@@ -26,4 +26,4 @@ python manage.py runserver
 
 Luego, abre tu navegador web y ve a `http://127.0.0.1:8000/admin/`. Inicia sesión con las credenciales del superusuario que creaste y podrás administrar los datos de tu aplicación a través del panel de administración de Django.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

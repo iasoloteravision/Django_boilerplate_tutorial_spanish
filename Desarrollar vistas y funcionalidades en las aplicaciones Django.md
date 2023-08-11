@@ -63,4 +63,4 @@ def post_detail(request, post_id):
 
 Desarrollar vistas y funcionalidades en las aplicaciones de tu proyecto Django implica definir funciones de vista que manejarán las solicitudes de los usuarios y realizarán acciones específicas, como mostrar información o procesar datos. Puedes desarrollar lógica de negocio, trabajar con modelos y formularios, crear y renderizar plantillas HTML, y conectar todo en las rutas de tu proyecto. A medida que agregas más funcionalidades, asegúrate de mantener una estructura organizada y modular en tus aplicaciones para facilitar el desarrollo y el mantenimiento.
 
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)

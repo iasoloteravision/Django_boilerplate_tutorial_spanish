@@ -79,4 +79,4 @@ Para que los archivos estáticos se carguen correctamente en tus plantillas, ase
 **Resumen:**
 
 Agregar archivos estáticos a tu proyecto Django implica configurar la ruta de archivos estáticos en `settings.py`, crear una estructura de carpetas en el directorio `static`, y luego referenciar y cargar estos archivos en tus plantillas HTML. Los archivos estáticos permiten mejorar la apariencia y la interactividad de tus páginas web al proporcionar estilos CSS, scripts JavaScript e imágenes.
-[[Django Boilerplate]]
+[Django Boilerplate](https://github.com/iasoloteravision/Django_boilerplate_tutorial_spanish/blob/main/Django%20Boilerplate.md)
